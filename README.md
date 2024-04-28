@@ -4,9 +4,7 @@ This program prints "Hello World!" to the terminal when run.
 
 I created this program to prepare me for writing bigger projects and to familiarize myself with using Git and GitHub.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/b17f140d79f3495a925a9ad7ca355e88?sid=dadd4b59-5ebd-419b-a601-a5e8281ad7c1)
 
 # Development Environment
 
