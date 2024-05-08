@@ -10,9 +10,6 @@ def calculateAreaRectangle(width, height):
 def calculateAreaTriangle(base, height):
     area = .5 * base * height
     return area
-def calculate_Circle_Area(radius):
-    area = radius * math.pi * radius
-    return area
 def main():
     print("This is my shapes program")
     circleArea = calculateCircleArea(20)
@@ -23,8 +20,6 @@ def main():
     triangleArea = calculateAreaTriangle(40,20)
     print(f"The area of the Triangle is : {triangleArea}")
 
-    circle_area = calculate_Circle_Area(10)
-    print(f"The area of the Circle is : {circle_area}")
 
 
 
